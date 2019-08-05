@@ -1,4 +1,8 @@
 # ResumeOne
+My resume can be seen here.
+https://fervent-lovelace-0e6c03.netlify.com
+
+Deploys from GitHub
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
