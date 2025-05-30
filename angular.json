@@ -116,5 +116,8 @@
         }
       }
     }},
-  "defaultProject": "resumeOne"
+  "defaultProject": "resumeOne",
+  "cli": {
+    "analytics": false
+  }
 }
