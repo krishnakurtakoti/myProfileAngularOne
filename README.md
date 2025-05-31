@@ -1,6 +1,6 @@
 # ResumeOne
 My resume can be seen here.
-https://fervent-lovelace-0e6c03.netlify.com
+https://683a99673bf0690008d12a4f--fervent-lovelace-0e6c03.netlify.app/
 
 Deploys from GitHub
 
